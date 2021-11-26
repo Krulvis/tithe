@@ -26,6 +26,7 @@ import kotlin.math.min
     description = "Tithe farming mini-game",
     author = "Krulvis",
     version = "1.0.8",
+    scriptId = "97078671-3780-4a44-b488-36ef241686dd",
     markdownFileName = "Tithe.md",
     category = ScriptCategory.Farming
 )
